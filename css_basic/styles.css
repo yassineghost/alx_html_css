@@ -18,3 +18,45 @@ body {
     flex: 1;
     overflow-y: auto;
   }
+  .logo {
+    font-size: 24px; 
+    margin-right: 10px; 
+  }
+  article {
+    background-color: #ffe9e9;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    color: #555;
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+  
+  p {
+    color: #a77272;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
